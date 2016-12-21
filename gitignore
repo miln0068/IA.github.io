@@ -1,0 +1,3 @@
+prune:
+  auto_prune: true
+  exclude: [ '.git' ]
